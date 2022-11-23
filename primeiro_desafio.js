@@ -6,3 +6,4 @@ const litrosConsumidor = distanciaEmKm / gastoMedioCarro;
 const combustivelGasto = litrosConsumidor * precoCombustivel;
 
 console.log(combustivelGasto.toFixed(2));
+    
